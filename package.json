@@ -1,0 +1,19 @@
+{
+  "name": "02_note_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/\u001b[2;3~KleoVor/02_Note_JS.git"
+  },
+  "author": "alipova\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[D\u001b[A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/\u001b[2;3~KleoVor/02_Note_JS/issues"
+  },
+  "homepage": "https://github.com/\u001b[2;3~KleoVor/02_Note_JS#readme"
+}
